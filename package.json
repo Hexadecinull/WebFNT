@@ -1,0 +1,17 @@
+{
+  "name": "webfnt",
+  "version": "1.0.0",
+  "description": "Lightweight .fnt to CSS translation layer",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "vitest run",
+    "lint": "eslint src/**/*.js",
+    "build": "echo 'No build step needed for ESM'"
+  },
+  "license": "LGPL-3.0",
+  "devDependencies": {
+    "eslint": "^8.56.0",
+    "vitest": "^1.2.0"
+  }
+}
