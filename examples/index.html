@@ -7,7 +7,7 @@
     import { createWebFNT } from '../src/index.js';
 
     async function init() {
-      const font = await createWebFNT('./assets/font.fnt');
+      const font = await createWebFNT('./assets/bigFont.fnt');
       const display = document.getElementById('game-ui');
       font.render("HELLO WORLD 123", display);
     }
