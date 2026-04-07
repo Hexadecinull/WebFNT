@@ -16,7 +16,7 @@
 Simply clone the repository or copy the `src/` folder into your project.
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/webfnt.git
+git clone https://github.com/Hexadecinull/WebFNT.git
 ```
 
 ## Usage
