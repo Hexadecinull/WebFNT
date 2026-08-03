@@ -2,8 +2,6 @@
 
 **WebFNT** is a zero-dependency, lightweight JavaScript library that acts as a translation layer for rendering AngelCode `.fnt` (bitmap) fonts on the web using standard CSS and HTML5.
 
-[](https://www.gnu.org/licenses/lgpl-3.0)
-
 ## Features
 
   * **Extremely Lightweight:** No external dependencies.
@@ -59,4 +57,4 @@ Contributions are welcome\! Please ensure that:
 
 ## License
 
-This project is licensed under the **GNU Lesser General Public License v3.0 (LGPL-3.0)**. This allows you to use the library in both open and closed-source projects, provided that any modifications to the library itself are shared back under the same license.
+This project is licensed under the **Mozilla Public License v2.0 (MPL-2.0)**. This allows you to use the library in both open and closed-source projects, provided that any modifications to the library itself are shared back under the same license. See LICENSE for more details.
